@@ -1,4 +1,5 @@
 # 🍽️ SharePlate - Reduce Waste, Share Love
+**Project by: The Debugging Demons**
 
 **SharePlate** is a community-driven platform built for the **GDGoC TechSprint 2025**. It connects individuals and local businesses with surplus food to those in need, aiming to reduce food waste and combat hunger.
 
@@ -16,17 +17,12 @@ Tons of perfectly edible food are thrown away every day, while many people still
 
 ## ☁️ Google Technologies Integrated (Mandatory)
 * **Google Firebase (Firestore):** Used as the primary NoSQL database to store and sync food donation listings in real-time.
-* **Google Firebase Hosting (Optional):** Used for deploying the web application.
 
 ## 🤖 AI Tools Used
-* **Gemini AI:** Used for brainstorming the project structure, refining the UI/UX flow, and generating the core codebase for the prototype.
+* **Gemini AI:** Used for brainstorming project structure and refining UI/UX.
 * **Replit Agent:** Used for rapid prototyping and initial setup.
 
-## 📁 Repository Structure
-* `/client`: Frontend source code.
-* `/server`: Backend logic and API routes.
-* `/shared`: Shared types and schemas.
-
 ---
-Developed by **[Your Name/Team Name]** for GDGoC TechSprint 2025.
+Developed by **The Debugging Demons** for GDGoC TechSprint 2025.
+
 
